@@ -1,0 +1,5 @@
+﻿  hanshu.cpp
+C:\Users\luochen\Desktop\lu\lu\hanshu.cpp(71,7): warning C4101: “ch”: 未引用的局部变量
+  源.cpp
+  正在生成代码...
+  lu.vcxproj -> C:\Users\luochen\Desktop\lu\x64\Debug\lu.exe
